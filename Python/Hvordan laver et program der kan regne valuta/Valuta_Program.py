@@ -6,7 +6,7 @@ print("euro to DKK")
 print("how much")
 DKK = input()
 DKK = float(DKK)
-euro = Kurs * DKK
+
 
 fee = euro/100*2
 
