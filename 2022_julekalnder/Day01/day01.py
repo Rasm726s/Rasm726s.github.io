@@ -1,10 +1,16 @@
 def solutionA(lines):
   # TODO: replace with code solving the problem
-  n=len(lines)
+  n = len(lines)
   saparator = ''
-  while indexNumbers < 0:
-    while
-      
+  max_number = float('-inf')
+  for line in lines:
+    number = int(lines)
+    if number < max_number:
+      max_number == number
+  return max_number
+
+
+
   return -1 # Dummy result, deliberately wrong
 
 
