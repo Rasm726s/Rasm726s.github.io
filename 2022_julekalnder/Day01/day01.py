@@ -2,7 +2,9 @@ def solutionA(lines):
   # TODO: replace with code solving the problem
   n=len(lines)
   saparator = ''
-  
+  while indexNumbers < 0:
+    while
+      
   return -1 # Dummy result, deliberately wrong
 
 
